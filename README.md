@@ -1,2 +1,3 @@
-# Cafetales_Proyecto
-Proyecto creado para la materia de programacion web
+# Proyecto Cafetales
+
+Sistema de distribución de sucursales de cafetales
